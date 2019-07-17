@@ -1,2 +1,2 @@
 # docker
-Ejemplos de docker
+Ejemplos de docker-compose
